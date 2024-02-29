@@ -24,7 +24,7 @@ title = "FilPonto"
     mobile_height = "36px"
     desktop = "images/logo/logo.svg"
     desktop_height = "36px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "FilPonto - Filecoin infra and collabs support"
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
@@ -40,8 +40,8 @@ title = "FilPonto"
     grey = "#5C5A5A"
 
   [params.seo]
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@filponto"
+    meta_twitter_creator = "@filponto"
     meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
 
   [params.services]
@@ -50,38 +50,38 @@ title = "FilPonto"
   [params.team]
     summary_large_truncate = 120 # How many characters to include in the summary of the team bios (large layout) before truncating
 
-  [params.footer]
-    copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+ # [params.footer]
+ #   copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
 
 [menu]
   # Main Menu
-  [[menu.main]]
-    name = "Services"
-    url = "/services/"
-    weight = 1
+  #[[menu.main]]
+  #  name = "Services"
+  #  url = "/services/"
+  #  weight = 1
 
-  [[menu.main]]
-    name = "Team"
-    url = "/team/"
-    weight = 2
+  #[[menu.main]]
+  #  name = "Team"
+  #  url = "/team/"
+  #  weight = 2
 
   [[menu.main]]
     name = "About"
     url = "/about/"
     weight = 3
 
-  [[menu.main]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 4
+  #[[menu.main]]
+  #  name = "Contact"
+  #  url = "/contact/"
+  #  weight = 4
 
   # Footer Menu
-  [[menu.footer]]
-    name = "Home"
-    url = "/"
-    weight = 1
+  #[[menu.footer]]
+  #  name = "Home"
+  #  url = "/"
+  #  weight = 1
 
-  [[menu.footer]]
-    name = "Contact"
-    url = "/contact/"
-    weight = 2
+  #[[menu.footer]]
+  #  name = "Contact"
+  #  url = "/contact/"
+  #  weight = 2
