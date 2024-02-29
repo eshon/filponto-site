@@ -4,7 +4,6 @@ date: 2018-11-28T15:14:54+10:00
 featured: true
 draft: false
 weight: 5
-hidden: true
 ---
 
 We provide expert guidance on setting up and structuring superannuation funds, ensuring compliance with regulatory requirements, and implementing tax-efficient strategies.

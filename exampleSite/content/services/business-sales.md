@@ -4,7 +4,6 @@ date: 2018-11-28T15:15:26+10:00
 featured: true
 draft: false
 weight: 3
-hidden: true
 ---
 
 Business Sales refers to the process of selling a company or its assets to interested buyers, often involving the transfer of ownership and control.

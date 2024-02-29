@@ -5,7 +5,6 @@ draft: false
 featured: true
 weight: 6
 summary: "Our tax preparation accounting service offers a reliable and efficient solution for individuals and businesses seeking expert assistance in managing their tax obligations."
-hidden: true
 ---
 
 Our tax preparation accounting service offers a reliable and efficient solution for individuals and businesses seeking expert assistance in managing their tax obligations. With our team of experienced accountants, we meticulously review financial records, analyze expenses, and navigate the complexities of tax laws to ensure accurate and compliant tax preparation.
