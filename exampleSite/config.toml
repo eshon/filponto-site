@@ -42,7 +42,7 @@ title = "FilPonto"
   [params.seo]
     meta_twitter_site = "@filponto"
     meta_twitter_creator = "@filponto"
-  #  meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
+    meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
 
   [params.services]
     summary_truncate = 120 # How many characters to include in the summary of the services before truncating
